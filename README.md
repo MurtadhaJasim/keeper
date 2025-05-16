@@ -17,7 +17,7 @@
 ### Prerequisites
 
 * [Node.js](https://nodejs.org/) (version 14 or higher)
-* [npm](https://www.npmjs.com/) (comes with Node.js)([Hatica][1])
+* [npm](https://www.npmjs.com/) (comes with Node.js)
 
 ### Installation
 
@@ -56,7 +56,7 @@
 
 ## Build for Production
 
-To create an optimized production build:([DEV Community][2])
+To create an optimized production build:
 
 ```bash
 npm run build
@@ -103,5 +103,5 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).([Hatica][1])
+This project is licensed under the [MIT License](LICENSE).
 
